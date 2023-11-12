@@ -1,0 +1,44 @@
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\userInputraylib.exe
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\userInputraylib.deps.json
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\userInputraylib.runtimeconfig.json
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\userInputraylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\userInputraylib.pdb
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\Raylib-cs.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\runtimes\win-x64\native\raylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\bin\Debug\net7.0\runtimes\win-x86\native\raylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\userInputraylib.csproj.AssemblyReference.cache
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\userInputraylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\userInputraylib.AssemblyInfoInputs.cache
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\userInputraylib.AssemblyInfo.cs
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\userInputraylib.csproj.CoreCompileInputs.cache
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\userInputraylib.csproj.CopyComplete
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\userInputraylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\refint\userInputraylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\userInputraylib.pdb
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\userInputraylib.genruntimeconfig.cache
+C:\Users\Rasta724.com\Desktop\test\userInputraylib\userInputraylib\obj\Debug\net7.0\ref\userInputraylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\userInputraylib.exe
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\userInputraylib.deps.json
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\userInputraylib.runtimeconfig.json
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\userInputraylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\userInputraylib.pdb
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\Raylib-cs.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\runtimes\win-x64\native\raylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\bin\Debug\net7.0\runtimes\win-x86\native\raylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\userInputraylib.csproj.AssemblyReference.cache
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\userInputraylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\userInputraylib.AssemblyInfoInputs.cache
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\userInputraylib.AssemblyInfo.cs
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\userInputraylib.csproj.CoreCompileInputs.cache
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\userInputraylib.csproj.CopyComplete
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\userInputraylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\refint\userInputraylib.dll
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\userInputraylib.pdb
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\userInputraylib.genruntimeconfig.cache
+C:\Users\Rasta724.com\Desktop\test\userInputraylib - MAIN\userInputraylib\obj\Debug\net7.0\ref\userInputraylib.dll
