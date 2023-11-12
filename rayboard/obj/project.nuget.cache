@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qb7mBs0Wv0qTELT5jDKIutapATr+tVp9m/yycC/yWfIZt8DnQ8r69PBgbuEofVHPNG3O8BihpuhnQH/YGxvffA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rasta724.com\\Desktop\\test\\rayboard\\rayboard\\rayboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasta724.com\\.nuget\\packages\\raylib-cs\\4.5.0.4\\raylib-cs.4.5.0.4.nupkg.sha512",
+    "C:\\Users\\Rasta724.com\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
